@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 👉(https://customer-segmentation-vsxvw55yurxvctjtv5nabl.streamlit.app/) 
-*(Replace this after deployment)*
+
 
 ---
 
