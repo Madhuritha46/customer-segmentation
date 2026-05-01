@@ -1,7 +1,7 @@
 # 📊 Customer Segmentation Dashboard (K-Means Clustering)
 
 ## 🚀 Live Demo
-👉 https://your-app-name.streamlit.app  
+👉(https://customer-segmentation-vsxvw55yurxvctjtv5nabl.streamlit.app/) 
 *(Replace this after deployment)*
 
 ---
